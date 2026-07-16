@@ -1,3 +1,5 @@
+package models;
+
 //Purpose: Stores numerology information.
 
 public class NumerologyResult {

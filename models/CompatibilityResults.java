@@ -1,5 +1,5 @@
 //Purpose: Stores the results of comparing two people.
-
+package models;
 public class CompatibilityResults {
     private BirthChart Partner1;
     private BirthChart Partner2;

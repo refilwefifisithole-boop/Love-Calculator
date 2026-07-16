@@ -1,5 +1,5 @@
 //Purpose: Represents one person in the compatibility calculation.
-
+package models;
 import java.time.LocalDate;
 
 public class Person {
