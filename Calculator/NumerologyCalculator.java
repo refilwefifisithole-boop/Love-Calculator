@@ -102,7 +102,7 @@ default:
 
 public  static NumerologyResult calculate(LocalDate birthDate, String fullName) {
 //calls the above methods and packages the results into a NumerologyResult object
-int lifePathNumber = CalculateLifePath(birthDate);
+    int lifePathNumber = CalculateLifePath(birthDate);
     int destinyNumber = CalculateDestinyNumber(fullName);
     String description = GetDescription(lifePathNumber);
 
